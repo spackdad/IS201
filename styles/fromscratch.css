@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header bar */
+.Header {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: relative;
+}
+
+
+.title {
+    margin: 0;
+}
+
+
+.home-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+
+.home-link:hover {
+    text-decoration: underline;
+}
+
+
+.content {
+    padding: 20px;
+}
